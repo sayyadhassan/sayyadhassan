@@ -1,4 +1,4 @@
-![logo](https://github.com/sayyadhassan/Sayyad/blob/main/GitHub_Banner.png)
+![logo](https://github.com/sayyadhassan/sayyadhassan/blob/main/New_GitHub_Banner.png)
 
 <h1 align="center">Hi 👋, I'm Sayyad Mohammad Hassan</h1>
 <h3 align="center">A passionate Java Developer</h3>
